@@ -1,0 +1,6 @@
+{
+  "intents": [
+    {"id": "edit", "phrase": "Edit", "role": "button"},
+    {"id": "share", "phrase": "Share", "role": "button"}
+  ]
+}

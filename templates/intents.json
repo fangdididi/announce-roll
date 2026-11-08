@@ -1,0 +1,5 @@
+{
+  "intents": [
+    {"id": "primary", "phrase": "the exact words a person would say or type", "role": "button"}
+  ]
+}

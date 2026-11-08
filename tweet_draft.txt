@@ -1,0 +1,2 @@
+刚发布一个新的 Agent Skill：announce-roll —— 把页面上每个可点击控件编成「播报名册」，标出无名、重名、名实不符，并按意图解析到唯一控件，让智能体按名字点，而不是猜像素。EN + 中文
+https://github.com/fangdididi/announce-roll
